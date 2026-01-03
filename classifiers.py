@@ -4,6 +4,8 @@ from analyzers import (is_reflexive,
                        is_antisymmetric)
 
 
+
+
 def is_equivalence(A, R):
     """
     Checks if a relation R on set A is an equivalence relation.
@@ -26,6 +28,9 @@ def is_equivalence(A, R):
         return True
     else:
         return False
+
+
+
 
 def is_partial_order(A, R):
     """
