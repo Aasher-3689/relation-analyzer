@@ -47,6 +47,9 @@ def is_irreflexive(A, R):
             break
     return result
 
+
+
+
 def is_symmetric(R):
     """
     Checks if a relation R is symmetric.
@@ -67,6 +70,9 @@ def is_symmetric(R):
             result = False
             break
     return result
+
+
+
 
 def is_asymmetric(R):
     """
@@ -89,6 +95,9 @@ def is_asymmetric(R):
             break
     return result
 
+
+
+
 def is_antisymmetric(R):
     """
     Checks if a relation R is antisymmetric.
@@ -110,6 +119,9 @@ def is_antisymmetric(R):
             result = False
             break
     return result
+
+
+
 
 def is_transitive(R):
     """
