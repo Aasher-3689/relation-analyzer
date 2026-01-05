@@ -1,12 +1,13 @@
 ## Contents
 
-1. [Title](#-project-title)
-2. [Description](#-project-description)
-3. [Dependencies](#-dependencies)  
-4. [Installation](#-installation-instructions)  
-5. [Usage Examples](#-usage-examples)  
-6. [Project Structure](#-project-structure)  
-7. [Contributors](#-contributors)  
+1. [Title](#project-title)
+2. [Description](#project-description)
+3. [Dependencies](#dependencies)  
+4. [Installation](#installation-instructions)  
+5. [Usage Examples](#usage-examples)  
+6. [Project Structure](#project-structure)  
+7. [Contributors](#contributors)
+8. [Demo Video](#demo-video)
 
 ---
 
@@ -88,3 +89,10 @@ python tests/main.py
 |------------------|-------------|
 | Abdullah Ahmad   | 2025-CS-51  |
 | Muhammad Aasher  | 2025-CS-16  |
+
+---
+
+## Demo Video
+Youtube: https://youtu.be/4BrXpQseAfU
+
+---
