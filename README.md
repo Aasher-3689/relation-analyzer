@@ -4,7 +4,7 @@
 2. [Description](#project-description)
 3. [Dependencies](#dependencies)  
 4. [Installation](#installation-instructions)  
-5. [Usage Examples](#usage-examples)  
+5. [Usage Examples](#usage-example)  
 6. [Project Structure](#project-structure)  
 7. [Contributors](#contributors)
 8. [Demo Video](#demo-video)
